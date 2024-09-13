@@ -1,0 +1,10 @@
+CS 519 - Applied Machine Learning I
+Group Project
+Team name: Gamma
+
+Stage 1
+-------------------------------
+Group members:
+1) Indronil Bhattacharjee
+2) Erica Flores
+3) Roscoe Hill
