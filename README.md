@@ -1,6 +1,11 @@
+# Understanding E-Commerce: Applying Machine Learning to Inform Business Decisions 
+
+Contributors: **Indronil Bhattacharjee, Roscoe Hill, Erica Flores**
+#
+
 **Read Here:** [Project Report](https://github.com/Indronil-Prince/ML-Project-E-Commerce-Business-Decisions/blob/main/Phase%205/Stage5_Report_Gamma.pdf)
 
-# Stage5.py Analysis Script
+## Stage5.py Analysis Script
 
 This Python script (`stage5.py`) is designed to analyze data using machine learning techniques and visualize the results effectively. The script uses a variety of data science and machine learning libraries to process data and generate insightful plots.
 
