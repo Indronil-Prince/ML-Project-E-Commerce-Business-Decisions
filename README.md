@@ -1,3 +1,4 @@
+**Read Here:** [Project Report](https://github.com/Indronil-Prince/ML-Project-E-Commerce-Business-Decisions/blob/main/Phase%205/Stage5_Report_Gamma.pdf)
 
 # Stage5.py Analysis Script
 
